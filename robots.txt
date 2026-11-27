@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fagundestelecom-creator.github.io/fagundesgroup/sitemap.xml
